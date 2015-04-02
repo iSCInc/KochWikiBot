@@ -1,0 +1,10 @@
+[submodule "wiki-java"]
+	path = wiki-java
+	url = git@github.com:vonloxley/wiki-java-1.git
+	branch = kochwiki
+[submodule "librwb"]
+	path = librwb
+	url = git@github.com:vonloxley/librwb
+[submodule "RezepteWikiBot"]
+	path = RezepteWikiBot
+	url = git@github.com:Koch-Wiki/RezepteWikiBot.git
