@@ -46,6 +46,14 @@ Entspricht dem Versweis „Was zeigt hierhin“.
 linksto("Gekörnte Brühe"){}
 ```
 
+### Category
+Liefert alle Seiten in der als Parameter übergebenen Kategorie und ihrer 
+Unterkategorien.
+
+```
+category("Hauptspeisen"){}
+```
+
 Blockbefehle
 ------------
 ### Putintocat
