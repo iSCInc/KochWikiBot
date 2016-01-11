@@ -7,4 +7,4 @@
 	url = git@github.com:vonloxley/librwb
 [submodule "RezepteWikiBot"]
 	path = RezepteWikiBot
-	url = git@github.com:Koch-Wiki/RezepteWikiBot.git
+	url = git@github.com:vonloxley/RezepteWikiBot.git
