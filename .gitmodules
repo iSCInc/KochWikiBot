@@ -1,7 +1,6 @@
 [submodule "wiki-java"]
 	path = wiki-java
 	url = git@github.com:vonloxley/wiki-java-1.git
-	branch = kochwiki
 [submodule "librwb"]
 	path = librwb
 	url = git@github.com:vonloxley/librwb
